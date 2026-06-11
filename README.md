@@ -94,11 +94,6 @@ python agent.py
 - **Trích dẫn nguồn:** mỗi câu trả lời kèm đoạn tài liệu gốc để người dùng kiểm chứng.
 - **Agentic:** agent tự quyết định dùng RAG hay gọi hàm tính toán theo loại câu hỏi.
 
-## ⚠️ Lưu ý
-
-- Dữ liệu trong `data/` là **mẫu giả lập**, không phải số liệu thật của bất kỳ
-  ngân hàng nào.
-- Không commit file `.env` (chứa API key) lên GitHub — đã được loại trong `.gitignore`.
 
 ## 🔧 Hướng phát triển tiếp
 
