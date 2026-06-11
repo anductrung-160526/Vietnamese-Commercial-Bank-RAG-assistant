@@ -1,0 +1,9 @@
+# Bổ sung cho phần đánh giá RAGAs
+# Cài bằng: pip install -r evaluation/requirements-eval.txt
+
+ragas>=0.2.14
+datasets>=2.14.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+langchain-google-vertexai>=2.0.0
+
